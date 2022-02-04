@@ -21,6 +21,7 @@ public class CardDealer {
         System.out.println(aceHearts.getSuit());
         System.out.println(aceHearts.getValue());
         Card idkwtfishappening = new Card("KSDJHFKJ", 23);
+        Card KEKW = new Card("Diamonds", 4);
     }
     
 }
