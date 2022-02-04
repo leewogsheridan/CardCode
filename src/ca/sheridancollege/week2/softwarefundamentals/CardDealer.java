@@ -3,7 +3,8 @@
  * Date: 04 Feburary 2022
  * Student ID: 991 638 141
  * Project: CardCode
- * Create a new CardDealer class
+ * Create a new CardDealer class. This is where the cards will be created and
+ * the game will be played.
  */
 package ca.sheridancollege.week2.softwarefundamentals;
 

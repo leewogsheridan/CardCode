@@ -1,7 +1,8 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ * Programmer: Gregory Lee Wo
+ * Date: 04 Feburary 2022
+ * Student ID: 991 638 141
+ * Project: CardCode
  */
 package ca.sheridancollege.week2.softwarefundamentals;
 
@@ -70,6 +71,5 @@ public class Card
             this.value = value;
         }
     }
-    
     
 }
