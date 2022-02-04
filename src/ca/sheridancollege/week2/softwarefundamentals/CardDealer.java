@@ -17,8 +17,9 @@ public class CardDealer {
         Card nineClubs = new Card("Clubs", 9);
         nineClubs.setSuit("diamonds");
         Card aceHearts = new Card("Hearts", 1);
-        Sysstem.out.println(aceHearts.getSuit());
+        System.out.println(aceHearts.getSuit());
         System.out.println(aceHearts.getValue());
+        Card idkwtfishappening = new Card("KSDJHFKJ", 23);
     }
     
 }
